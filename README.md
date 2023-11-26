@@ -1,2 +1,2 @@
-# LeatCode tasks
-Tasks from the LeatCode platform
+# LeetCode tasks
+Tasks from the LeetCode platform
