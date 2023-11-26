@@ -1,2 +1,2 @@
-# leat-code-tasks
+# LeatCode tasks
 Tasks from the LeatCode platform
